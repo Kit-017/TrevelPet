@@ -21,7 +21,7 @@ img {
 }
 header {
     height: 1000px;
-    background-image: url(/img/main.png);
+    background-image: url(img/main.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
